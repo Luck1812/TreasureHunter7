@@ -1,0 +1,93 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a612775e7f934ab9981c239fd533d979, type: 3}
+  m_Name: PlayerDef
+  m_EditorClassIdentifier: 
+  _inventorySize: 7
+  _maxHealt: 10
+  _stats:
+  - _name: player_stats_health
+    _id: 0
+    _icon: {fileID: 21300000, guid: adebd7475d71b004bb97d1fc2c9f5c68, type: 3}
+    _levels:
+    - _value: 10
+      _price:
+        _id: GreenGem
+        _count: 0
+    - _value: 20
+      _price:
+        _id: GreenGem
+        _count: 20
+    - _value: 30
+      _price:
+        _id: GreenGem
+        _count: 40
+  - _name: player_stats_speed
+    _id: 1
+    _icon: {fileID: 21300000, guid: 67cb5ad39e0b19144b8e6104ee68d0c2, type: 3}
+    _levels:
+    - _value: 4
+      _price:
+        _id: GreenGem
+        _count: 0
+    - _value: 5
+      _price:
+        _id: GreenGem
+        _count: 20
+    - _value: 5.5
+      _price:
+        _id: GreenGem
+        _count: 30
+    - _value: 6
+      _price:
+        _id: GreenGem
+        _count: 70
+  - _name: player_stats_damage
+    _id: 2
+    _icon: {fileID: 21300000, guid: 9eea8fe904f5ed64d808a3eed7618746, type: 3}
+    _levels:
+    - _value: 1
+      _price:
+        _id: GreenGem
+        _count: 0
+    - _value: 2
+      _price:
+        _id: GreenGem
+        _count: 15
+    - _value: 2
+      _price:
+        _id: GreenGem
+        _count: 30
+    - _value: 3
+      _price:
+        _id: GreenGem
+        _count: 50
+  - _name: player_stats_critdamage
+    _id: 3
+    _icon: {fileID: 21300000, guid: 1a42730a393a9ee4bb01a6abbbf79b91, type: 3}
+    _levels:
+    - _value: 10
+      _price:
+        _id: GreenGem
+        _count: 0
+    - _value: 20
+      _price:
+        _id: GreenGem
+        _count: 15
+    - _value: 40
+      _price:
+        _id: GreenGem
+        _count: 30
+    - _value: 70
+      _price:
+        _id: GreenGem
+        _count: 50

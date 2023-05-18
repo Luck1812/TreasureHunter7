@@ -1,0 +1,98 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ed036f185ae04be3a9acf583c4ea7e77, type: 3}
+  m_Name: en
+  m_EditorClassIdentifier: 
+  _url: https://docs.google.com/spreadsheets/d/e/2PACX-1vSBRlxPJuZfWUoV129m6DRp_UzAbTyQb3c6GuZgc-5cFWeYF3j6tzw4Gb7Cctao0uWPuXcGwWOXOpyN/pub?gid=0&single=true&output=tsv
+  _localeItems:
+  - Key: complete_level_title
+    Value: "level passed\r"
+  - Key: reward_title
+    Value: "reward\r:"
+  - Key: menu_title
+    Value: "menu\r"
+  - Key: levelSelection_title
+    Value: "level\r"
+  - Key: shop_title
+    Value: "shop\r"
+  - Key: settings_title
+    Value: "options\r"
+  - Key: language_title
+    Value: "language\r"
+  - Key: game_menu_title
+    Value: "pause\r"
+  - Key: price_title
+    Value: "price:\r"
+  - Key: button_complete
+    Value: "complete\r"
+  - Key: button_buy
+    Value: "buy\r"
+  - Key: button_upgrade
+    Value: "upgrade\r"
+  - Key: button_start
+    Value: "start\r"
+  - Key: button_continue
+    Value: "continue\r"
+  - Key: button_skip
+    Value: "skip\r"
+  - Key: button_option
+    Value: "option\r"
+  - Key: button_shop
+    Value: "shop\r"
+  - Key: button_restart
+    Value: "restart\r"
+  - Key: button_choose
+    Value: "chosen\r"
+  - Key: button_use
+    Value: "use\r"
+  - Key: button_okey
+    Value: "ok\r"
+  - Key: button_locale
+    Value: "language\r"
+  - Key: button_back
+    Value: "back\r"
+  - Key: button_exit
+    Value: "exit\r"
+  - Key: selected_language
+    Value: "Selected language is {0}\r"
+  - Key: audio_option_music
+    Value: "music\r"
+  - Key: audio_option_sfx
+    Value: "sfx\r"
+  - Key: message_not_enough_coins
+    Value: "not enough coins\r"
+  - Key: helm_one_message
+    Value: "Use helm?\r"
+  - Key: helm_one_option_one
+    Value: "1. Yes\r"
+  - Key: helm_one_option_two
+    Value: "2. No\r"
+  - Key: level_2_one_door_fail
+    Value: "You need to find the key\r"
+  - Key: level_2_one_door_success
+    Value: "Great, you found the key!\r"
+  - Key: player_stats_health
+    Value: "Health\r"
+  - Key: player_stats_speed
+    Value: "Speed\r"
+  - Key: player_stats_damage
+    Value: "Damage\r"
+  - Key: player_stats_critdamage
+    Value: "CritDamage\r"
+  - Key: perk_super_throw_info
+    Value: "Allows you to shoot multiple swords at once\r"
+  - Key: perk_shield_info
+    Value: "A shield to block incoming damage for a few seconds\r"
+  - Key: boss_level1_start_dialog_1
+    Value: "How dare you invade here, I will destroy you!!!!\r"
+  - Key: boss_level1_start_dialog_2
+    Value: I've come to defeat you!!

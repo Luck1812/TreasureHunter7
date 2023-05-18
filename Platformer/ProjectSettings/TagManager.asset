@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Interactable
+  - SfxAudioSource
+  - MainUICanvas
+  - SimpleDialog
+  - PersonalizedDialog
+  - MainVirtualCamera
+  - ControlsUICanvas
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - Interactables
+  - Trash
+  - Hero
+  - Wall
+  - Collectables
+  - CollidableEnemies
+  - Enemies
+  - Checkers
+  - PropsGround
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 3157939609
+    locked: 0
+  - name: Tilemap
+    uniqueID: 3600758549
+    locked: 0
+  - name: Level
+    uniqueID: 315589823
+    locked: 0
+  - name: Props
+    uniqueID: 127651561
+    locked: 0
+  - name: Creatures
+    uniqueID: 1949171399
+    locked: 0
+  - name: Overlay
+    uniqueID: 3730995395
+    locked: 0
